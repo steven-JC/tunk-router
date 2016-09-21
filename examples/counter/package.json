@@ -1,0 +1,31 @@
+{
+  "name": "counter-example",
+  "version": "0.0.0",
+  "description": "tunk-react counter example",
+  "dependencies": {
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0",
+    "tunk":"latest",
+    "tunk-react":"latest",
+    "tunk-action-middleware":"latest"
+  },
+  "devDependencies": {
+    "babel-core": "^6.0.0",
+    "babel-loader": "^6.0.0",
+    "babel-plugin-react-transform": "^1.1.0",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-polyfill": "^6.2.0",
+    "babel-preset-es2015": "^6.0.0",
+    "babel-preset-react": "^6.11.1",
+    "babel-preset-stage-0": "^6.5.0",
+    "babel-preset-stage-1": "^6.1.18",
+    "babel-runtime": "^6.3.13",
+    "express": "^4.13.3",
+    "node-libs-browser": "^0.5.2",
+    "react-addons-test-utils": "^0.14.0",
+    "react-transform-hmr": "^1.0.0",
+    "webpack": "^1.9.11",
+    "webpack-dev-middleware": "^1.2.0",
+    "webpack-hot-middleware": "^2.2.0"
+  }
+}
